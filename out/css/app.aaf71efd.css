@@ -1,0 +1,78 @@
+* {
+	margin: 0px; padding: 0px; font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,Helvetica,Segoe UI,Arial,Roboto,PingFang SC,miui,Hiragino Sans GB,Microsoft Yahei,sans-serif; box-sizing: border-box;
+}
+.main {
+	background: rgb(245, 245, 245);
+}
+.input-wrap {
+	width: 100vw; height: 100vh;
+}
+.main {
+	width: 100vw; height: 100vh;
+}
+.input-wrap {
+	display: flex; flex-direction: column; justify-content: center; align-items: center;
+}
+.input-item {
+	margin: 10px 0px; padding: 0px 8px; border-radius: 8px; border: 1px solid rgb(150, 151, 153); border-image: none; width: 60vw;
+}
+.input-item {
+	height: 30px; line-height: 30px;
+}
+.submit {
+	height: 30px; line-height: 30px;
+}
+.submit {
+	border-radius: 4px; border: 1px solid rgb(150, 151, 153); border-image: none; width: 50px; text-align: center; cursor: pointer;
+}
+.timeNow {
+	height: 65px; color: rgb(0, 0, 0); line-height: 65px; font-size: 20px; background-color: rgb(254, 254, 254);
+}
+.img-wrap {
+	width: 100vw; text-align: center;
+}
+.timeNow {
+	width: 100vw; text-align: center;
+}
+.img-wrap {
+	height: 122px; margin-top: 18px;
+}
+.img-wrap img {
+	width: 122px; height: 122px;
+}
+.time-title {
+	width: 100vw; height: 14px; color: rgb(150, 151, 153); padding-left: 14px; font-size: 14px; margin-top: 34px; margin-bottom: 12px;
+}
+.time-wrap {
+	width: 100vw; height: 96px; border-top-color: rgb(235, 237, 240); border-top-width: 1px; border-top-style: solid; background-color: rgb(254, 254, 254);
+}
+.time-item {
+	border-bottom-color: rgb(235, 237, 240); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.time-wrap {
+	border-bottom-color: rgb(235, 237, 240); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.time-item {
+	margin: 0px auto; width: 92vw; height: 47px; line-height: 46px; font-size: 16px; display: flex; justify-content: space-between; align-items: center;
+}
+.time-content {
+	font-size: 14px; font-weight: 700;
+}
+.content-title {
+	width: 100vw; height: 14px; color: rgb(150, 151, 153); padding-left: 14px; font-size: 14px; margin-top: 22px; margin-bottom: 12px;
+}
+.content-wrap {
+	width: 100vw; height: 219px; border-top-color: rgb(235, 237, 240); border-top-width: 1px; border-top-style: solid; background-color: rgb(254, 254, 254);
+}
+.content-item {
+	border-bottom-color: rgb(235, 237, 240); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.content-wrap {
+	border-bottom-color: rgb(235, 237, 240); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.content-item {
+	margin: 0px auto; width: 92vw; height: 44px; line-height: 43px; font-size: 14px; display: flex; justify-content: space-between; align-items: center;
+}
+.content-color {
+	color: rgb(150, 151, 153);
+}
